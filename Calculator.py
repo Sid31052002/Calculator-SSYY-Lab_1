@@ -1,3 +1,7 @@
+def multiply(a, b):
+    """Multiplication Operation"""
+    return a * b
+    
 def divide(a, b):
     """Division Operation"""
     if b == 0:
